@@ -1,4 +1,17 @@
-### Hi :wave:
+### Hi :wave:, I'm Clément
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-D1A143)](http://baradelclement.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clementbaradel/)
+<a href="mailto:baradelclement@gmail.com"><img src="https://img.shields.io/badge/Mail-%23DD0031.svg?&logo=gmail&logoColor=white"/></a>
+
+🔭 My current side-project is [Audiophile](https://github.com/Baradel-Clement/Audiophile), an audiophile e-commerce website. \
+
+📌 Last project: [FoodLocal](https://github.com/Baradel-Clement/FoodLocal) as a React Developer, teaming up with Symfony Devs for back-end.\
+💻 Stack: React, Redux, Symfony as REST API using Doctrine. Deployment: React app on Surge, dockerized Symfony app on AWS EC2.\
+
+🌱 I’m currently learning **Node.js** to continue to evolue in the JS ecosystem.
+
+🔮 In the future, I'm planning to dig more into dynamic 3D web technologies like Three.js or WebGL for lead me in the world of creative websites.
 
 ## ⚡ Technologies and Tools
 

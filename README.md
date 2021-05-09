@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clementbaradel/)
 <a href="mailto:baradelclement@gmail.com"><img src="https://img.shields.io/badge/Mail-%23DD0031.svg?&logo=gmail&logoColor=white"/></a>
 
-🔭 My current side-project is [Audiophile](https://github.com/Baradel-Clement/Audiophile), an audiophile e-commerce website. \
+🔭 My current side-project is [Audiophile](http://foodlocal.surge.sh/), an audiophile e-commerce website. \
 
 📌 Last project: [FoodLocal](https://github.com/Baradel-Clement/FoodLocal) as a React Developer, teaming up with Symfony Devs for back-end.\
 💻 Stack: React, Redux, Symfony as REST API using Doctrine. Deployment: React app on Surge, dockerized Symfony app on AWS EC2.\
